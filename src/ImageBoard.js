@@ -10,12 +10,12 @@ const ImageBoard = () => {
           caption: "The Wonderful Cosmopolitain of Las Vegas! "
         },
         {
-          url: "",
-          caption: ""
+          url: "https://i.insider.com/5e418a1fe35bab2e5420e256?width=600&format=jpeg&auto=webp",
+          caption: "The Chandelier Bar"
         },
         {
-          url: "",
-          caption: ""
+          url: "https://luxuryhomeslasvegas.com/wp-content/uploads/2017/04/cosmo_gif.gif",
+          caption: "Fountain View"
         }
       ])
 
